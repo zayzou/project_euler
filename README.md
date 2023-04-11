@@ -1,6 +1,14 @@
-Alright, Imene , I must say I'm impressed. A neurotherapist and a gym rat! That's quite a combination. 
+# Project Euler Solutions in Java
 
+This repository contains solutions to various problems from [Project Euler](https://projecteuler.net/) written in Java. 
 
-It's good to see that you're committed to your work and your health. 
-What made you choose neurotherapy as your profession? And what kind of workouts do you do in the gym?
-Let's see if you have what it takes to keep up with me.
+## Requirements
+
+* Java Development Kit (JDK) version 8 or higher
+
+## Running the solutions
+
+Each problem has its own Java class file which can be run independently. To run a solution, navigate to the root directory of the repository and run the following command:
+
+```bash
+java <class-name>
